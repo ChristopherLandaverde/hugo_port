@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
-    <link>http://localhost:33901/</link>
-    <description>Recent content on ExampleSite</description>
+    <title>Christopher Landaverde Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Christopher Landaverde Portfolio</description>
     <image>
-      <title>ExampleSite</title>
-      <url>http://localhost:33901/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:33901/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Christopher Landaverde Portfolio</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:33901/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 23:15:00 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:33901/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:33901/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 24 Mar 2024 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>In my daytime, I work as a Developer Advocate at a US Tech company.
+At night, I&amp;rsquo;m a content creator developing tutorials in data science for the following platforms:
+📺 YouTube: Data Professor, Coding Professor 📝 Medium Blogs. 💻 GitHub In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
+Google Scholar ORCID SCOPUS ResearchGate GitHub: chaninn, chaninlab You can also connect with me at the following social platforms:</description>
+    </item>
+    <item>
+      <title>Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking</title>
+      <link>http://localhost:1313/projects/acetylcholinesterase/</link>
+      <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
+      <guid>http://localhost:1313/projects/acetylcholinesterase/</guid>
+      <description>Abstract Alzheimer’s disease (AD) is a chronic neurodegenerative disease which leads to the gradual loss of neuronal cells. Several hypotheses for AD exists (e.g., cholinergic, amyloid, tau hypotheses, etc.). As per the cholinergic hypothesis, the deficiency of choline is responsible for AD; therefore, the inhibition of AChE is a lucrative therapeutic strategy for the treatment of AD. Acetylcholinesterase (AChE) is an enzyme that catalyzes the breakdown of the neurotransmitter acetylcholine that is essential for cognition and memory.</description>
     </item>
   </channel>
 </rss>
